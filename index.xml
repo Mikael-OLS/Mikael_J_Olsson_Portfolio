@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Mikael J.Olsson</title>
-    <link>https://example.com/</link>
+    <link>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/</link>
     <description>Recent content in Data Science Portfolio on Mikael J.Olsson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Jul 2020 11:00:59 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project III: Predicting Mobile Apps Rating</title>
-      <link>https://example.com/post/chapter-3/</link>
+      <link>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-3/</link>
       <pubDate>Fri, 10 Jul 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-3/</guid>
+      <guid>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-3/</guid>
       <description>It feels like everyone have atleast one app idea that they say would make milloins. Ironically, I don&amp;rsquo;t know anybody that actually have gone through with their idea. But if they did, would the app be successful? In this project a linear model will be created to predict the rating of mobile apps. The goals of this project are:
 Make a model that successfully predicts the rating.
  Find out which variables that are important for predicting.</description>
@@ -24,28 +24,28 @@ Make a model that successfully predicts the rating.
     
     <item>
       <title>Project II: Worlds Most Popular Music(Week 26)</title>
-      <link>https://example.com/post/chapter-2/</link>
+      <link>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-2/</link>
       <pubDate>Sun, 28 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-2/</guid>
+      <guid>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-2/</guid>
       <description>Whether I am on the train, the bike, coding or even doing anything at all - I listen to music. However, in the last couple of years when Spotify shows me my most listen to songs, I have realised that the songs are almost 100% from Sweden, the United States or the UK. This has peeked my interest in exploring music from around the world and to see if there is any difference.</description>
     </item>
     
     <item>
       <title>Project I: How Will Premier League End?</title>
-      <link>https://example.com/post/chapter-1/</link>
+      <link>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-1/</link>
       <pubDate>Wed, 20 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-1/</guid>
+      <guid>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/post/chapter-1/</guid>
       <description>Premier League, together with almost the rest of the football world, is on hold. It is not clear if the leagues will continue or not. But if they continue, how will they end? In this article I will create a model that predicts the result of the Premier League games left, to complete the league table. Will Liverpool win the league? Will Manchester United qualify to the Champions League? And which teams will be rejected?</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://mikael-ols.github.io/Mikael_J_Olsson_Portfolio/contact/</guid>
       <description>You can find me here:
 LinkedIn: https://www.linkedin.com/in/mikael-j-olsson-6561b5137/
 Mail: mikael.jurvelinolsson@outlook.com
